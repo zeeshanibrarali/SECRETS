@@ -56,7 +56,11 @@ Open your browser and go to http://localhost:3000.
 - Mongoose-findorcreate
 
 ## Secreenshots
-
+### MAIN PAGE
 ![Home page](./screenshots/Home%20Page.PNG)
+### LOGIN PAGE
+![login page](./screenshots/login%20page.PNG)
+### NEW SECRET PAGE
+![secret](./screenshots/new%20secret.PNG)
 
 
